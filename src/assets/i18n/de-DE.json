@@ -1,0 +1,10 @@
+{
+    "choose_language": "Sprache wählen",
+    "info": "Zeige Info",
+    "language.english": "Englisch",
+    "language.french": "Französisch",
+    "language.german": "Deutsch",
+    "language.hindi": "Hindi",
+    "title": "Herzlich willkommen",
+    "welcome_text": "Internationalisierung, manchmal auch als i18n bezeichnet, ist der Prozess des Entwerfens und Vorbereitens Ihres Projekts für die Verwendung an verschiedenen Orten auf der ganzen Welt. Bei der Lokalisierung werden Versionen Ihres Projekts für verschiedene Gebietsschemas erstellt."
+  }

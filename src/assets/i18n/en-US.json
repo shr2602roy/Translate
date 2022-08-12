@@ -1,0 +1,10 @@
+{
+  "choose_language": "Choose language",
+  "info": "Show info",
+  "language.english": "English",
+  "language.french": "French",
+  "language.german": "German",
+  "language.hindi": "Hindi",
+  "title": "Welcome",
+  "welcome_text": "Internationalization, sometimes referenced as i18n, is the process of designing and preparing your project for use in different locales around the world. Localization is the process of building versions of your project for different locales."
+}

@@ -1,0 +1,10 @@
+{
+    "choose_language": "Choisissez la langue",
+    "info": "Afficher les informations",
+    "language.english": "Anglais",
+    "language.french": "Français",
+    "language.german": "Allemand",
+    "language.hindi": "Hindi",
+    "title": "Bienvenu",
+    "welcome_text": "L'internationalisation, parfois appelée i18n, est le processus de conception et de préparation de votre projet pour une utilisation dans différents endroits du monde. La localisation est le processus de création de versions de votre projet pour différents paramètres régionaux."
+  }
